@@ -1,0 +1,1 @@
+# IDEA : Crear una APK que tenga tambien una WEB sobre los grupos de venta de la uci filtrando cada grupo por categorias haciendo una matriz columna de categorias de productos, tendra un registro de usuario, cada emprendedor debe pagar el 5% por cada venta y si el pago queda en decimal se redondea hacia abajo resultando mayor beneficio para el cliente emprendedor
